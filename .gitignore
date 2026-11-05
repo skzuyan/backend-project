@@ -1,0 +1,10 @@
+node_modules
+.env
+On branch master
+
+No commits yet
+
+Untracked files:
+    .gitignore
+    package.json
+    readme.md
